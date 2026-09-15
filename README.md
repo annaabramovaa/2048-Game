@@ -3,7 +3,7 @@ A classic 2048 puzzle game built with vanilla JavaScript, HTML, and SCSS. Player
 ## Technologies Used
 This project was built using the following technologies:
 - **HTML5:** Used to structure the page content with semantic and accessible markup.
-- **CSS3:** Used for styling, layout, and responsive design across different screen sizes.
+- **SCSS** — styling
 - **JavaScript:** Used to implement interactive elements and dynamic functionality with modern JavaScript features.
 - **Node.js:** Used as the JavaScript runtime environment for the project.
 - **NPM:** Used to manage dependencies and project scripts.
